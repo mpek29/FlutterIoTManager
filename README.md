@@ -25,28 +25,10 @@
 | 🌐 **Network & Cloud Integration** | Control devices locally or remotely through cloud services                         |
 | 🌍 **Cross-platform**              | Works on Android and iOS devices                                                   |
 
-## ⚡ Quick Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/<your-username>/flutteriot_manager.git
-   cd flutteriot_manager
-   ```
-2. Install dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-3. Run the app:
-
-   ```bash
-   flutter run
-   ```
-
-## 📚 Documentation
-
-See the [`/docs`](./docs) folder for architecture, UI flow, API reference, device integration guides, and roadmap.
+## 📷 Screenshots
+| Device List | Product | Settings |
+|-----------|-----------|-----------|
+| <img src="assets/img/device_list.png"> | <img src="assets/img/product.png"> | <img src="assets/img/settings"> |
 
 ## 🌟 License
 
