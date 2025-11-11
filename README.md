@@ -11,7 +11,7 @@
 * 📱 **Multi-Device Control**: Manage multiple IoT devices from a single app.
 * 🔄 **State Navigation**: Switch between device modes or operational states.
 * ⚙️ **Parameter Configuration**: Set and adjust device-specific parameters.
-* 🌐 **Network Connectivity**: Connect devices over Wi-Fi, Bluetooth, or cloud.
+* 🌐 **Network Connectivity**: Connect devices over Wi-Fi or cloud.
 * 🛠️ **Open-source & Extensible**: Add support for new devices easily.
 
 ## 📝 Features
