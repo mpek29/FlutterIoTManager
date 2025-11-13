@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "id": "1",
+      "name": "wallbox-plus_266000",
+      "isOnline": true,
+      "status": "Connected",
+      "serialNumber": "SN-WBP-2024-001"
+    },
+    {
+      "id": "2",
+      "name": "wallbox-plus_236000",
+      "isOnline": true,
+      "status": "Connected",
+      "serialNumber": "SN-WBP-2024-002"
+    }
+  ]
+}
